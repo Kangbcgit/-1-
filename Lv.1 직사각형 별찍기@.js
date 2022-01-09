@@ -15,7 +15,7 @@ process.stdin.on('data', data => {
 
 
 
-//====================인상깊은 방식
+//====================인상깊은 다른사람의 풀이방식
 process.stdin.setEncoding('utf8');
 process.stdin.on('data', data => {
     const n = data.split(" ");
